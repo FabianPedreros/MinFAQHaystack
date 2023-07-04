@@ -1,0 +1,4 @@
+uvicorn
+openpyxl
+fastapi
+farm-haystack[inference]
